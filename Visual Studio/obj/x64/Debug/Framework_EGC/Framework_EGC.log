@@ -1,0 +1,74 @@
+﻿  CameraInput.cpp
+  SceneInput.cpp
+  SimpleScene.cpp
+  Engine.cpp
+  GPUBuffers.cpp
+  Mesh.cpp
+  Shader.cpp
+  Texture2D.cpp
+  TextureManager.cpp
+  InputController.cpp
+  WindowCallbacks.cpp
+  WindowObject.cpp
+  World.cpp
+  gl.cpp
+  Laborator1.cpp
+  Laborator2.cpp
+  Laborator4.cpp
+  Laborator5.cpp
+  Laborator6.cpp
+  Laborator7.cpp
+  Laborator8.cpp
+  Laborator9.cpp
+  Object.cpp
+  Tema1.cpp
+  Platforme.cpp
+  Tema2.cpp
+  Platformele.cpp
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\laborator9\laborator9.cpp(244): warning C4018: '<': signed/unsigned mismatch
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\object.cpp(118): warning C4305: '+=': truncation from 'double' to 'float'
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(106): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(134): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(135): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(159): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(165): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(63): warning C4101: 'speed': unreferenced local variable
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(190): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(192): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(193): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(194): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(195): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(196): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(213): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(226): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(227): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(228): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(229): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(230): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(250): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(341): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(399): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema1\tema1.cpp(400): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema2\tema2.cpp(68): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema2\tema2.cpp(239): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema2\tema2.cpp(240): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema2\tema2.cpp(669): warning C4305: '-=': truncation from 'double' to 'float'
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema2\tema2.cpp(670): warning C4305: '-=': truncation from 'double' to 'float'
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema2\tema2.cpp(685): warning C4305: '+=': truncation from 'double' to 'float'
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema2\tema2.cpp(686): warning C4305: '+=': truncation from 'double' to 'float'
+  Tema3.cpp
+  Main.cpp
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema3\tema3.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\anul3\1\egc\framework-egc-master - 2\source\laboratoare\tema3\tema3.cpp(696): warning C4305: 'argument': truncation from 'double' to 'float'
+  Framework_EGC.vcxproj -> E:\ANUL3\1\EGC\Framework-EGC-master - 2\Visual Studio\..\x64\Debug\Framework_EGC.exe
+  A subdirectory or file E:\ANUL3\1\EGC\Framework-EGC-master - 2\Visual Studio\scripts\..\..\x64\Debug already exists.
+  E:\ANUL3\1\EGC\Framework-EGC-master - 2\Visual Studio\scripts\..\..\libs\GL\x64\Release\glew32.dll
+  1 File(s) copied
+  E:\ANUL3\1\EGC\Framework-EGC-master - 2\Visual Studio\scripts\..\..\libs\GLFW\x64\Debug\glfw3.dll
+  1 File(s) copied
+  E:\ANUL3\1\EGC\Framework-EGC-master - 2\Visual Studio\scripts\..\..\libs\assimp\x64\Debug\assimpd.dll
+  1 File(s) copied
+  E:\ANUL3\1\EGC\Framework-EGC-master - 2\Visual Studio\scripts\..\..\libs\Engine\x64\Debug\Components.dll
+  1 File(s) copied
